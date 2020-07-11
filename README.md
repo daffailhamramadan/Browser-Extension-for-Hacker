@@ -2,7 +2,6 @@
 ### List of Browser Extension for hacker:
 
 Wappalyzer:
-Identify technologies on websites
 https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/
 
 Firefox Multi-Account Container:
